@@ -1,6 +1,6 @@
 package com.company.lions;
 
-public class WordsFont {
+public class WordsFront {
 
   public String[] wordsFront(String[] words, int n) {
 
