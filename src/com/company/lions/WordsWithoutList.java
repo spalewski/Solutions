@@ -1,4 +1,4 @@
-package com.company.Lions;
+package com.company.lions;
 
 import java.util.ArrayList;
 import java.util.List;

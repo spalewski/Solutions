@@ -1,4 +1,4 @@
-package com.company.Lions;
+package com.company.lions;
 
 public class WordsFont {
 
